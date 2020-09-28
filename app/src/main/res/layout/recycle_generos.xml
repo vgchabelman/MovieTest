@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/generos"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="7dp"
+    android:layout_marginLeft="2dp"
+    android:layout_marginRight="2dp"
+    android:fontFamily="sans-serif"
+    android:textSize="15sp"
+    android:textStyle="bold"
+    android:textColor="@color/branco"
+    android:text="@string/generos">
+
+</TextView>
